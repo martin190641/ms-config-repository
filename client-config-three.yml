@@ -1,4 +1,4 @@
 server:
   port: 8083
 
-message: Microservicio three, probando auto refresco
+message: Microservicio three, probando auto refresco dinámicamente

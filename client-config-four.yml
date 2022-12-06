@@ -2,4 +2,4 @@ server:
   port: 8084
 
 
-message: Microservicio four, probando auto refresco
+message: Microservicio four, probando auto refresco dinámicamente
