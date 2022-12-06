@@ -1,0 +1,4 @@
+server:
+  port: 8081
+
+message: Microservicio one, probando auto refresco con rabbit
