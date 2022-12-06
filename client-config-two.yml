@@ -1,4 +1,5 @@
 server:
   port: 8082
 
-message: Microservicio two, probando auto refresco con rabbit dinámicamente prueba 5
+message: Microservicio two, probando auto refresco con rabbit dinámicamente prueba 6
+message-api: Microservicio two api mensaje
